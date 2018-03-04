@@ -22,6 +22,4 @@ hist(electric_power_data$Global_active_power,
      xlab = "Global Active Power (kilowatts)", 
      col = "red")
 
-# Save in PNG file.
 dev.off()
-

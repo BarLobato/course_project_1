@@ -33,6 +33,5 @@ plot(x, y,
      ylab = "Global Active Power (kilowatts)")
 lines(x, y)
 
-# Save in PNG file.
 dev.off()
 

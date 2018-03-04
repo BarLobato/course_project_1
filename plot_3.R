@@ -38,6 +38,5 @@ legend("topright",
        lty = 1,
        legend = c("Sub_metering_1", "Sub_metering_2", "Sub_metering_3"))
 
-# Save in PNG file.
 dev.off()
 

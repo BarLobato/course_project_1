@@ -76,5 +76,4 @@ plot(x, w,
      xlab = "", 
      ylab = "Global_reactive_power")
 
-# Save in PNG file.
 dev.off()
